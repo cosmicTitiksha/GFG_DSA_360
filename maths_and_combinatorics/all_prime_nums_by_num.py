@@ -1,5 +1,5 @@
 ############################################
-# METHOD 3 - Sieve of Eratosthenes
+# METHOD - Sieve of Eratosthenes
 ############################################
 
 def sieve(num):
