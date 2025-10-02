@@ -1,5 +1,8 @@
 # The program is to check if a number is prime or not
 import math
+############################################
+# METHOD 1
+############################################
 # num = int(input("Enter the number you want to check: "))
 # lista = []
 # for i in range(2,num):
@@ -10,6 +13,9 @@ import math
 # else:
 #   print("The number is not prime.")
 
+############################################
+# METHOD 2
+############################################
 num = int(input("Enter the number : "))
 lista = []
 def prime(num):
@@ -26,3 +32,4 @@ else:
     print("The number is prime.")
   else:
     print("The number is not prime.")
+
